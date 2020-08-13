@@ -16,7 +16,7 @@ I’m currently learning Angular and React Native.
 I'm working in a project of my own to help nutritionist in the analysis of diet.
 You can always ask me anything on **Twitter** related to *Js, LGBTTTI topics, math* or just to chat about something
 
-Press the follow button 😉 **it's free**
+Press the follow button 😉  **it's free**
 
 
 > Written with [StackEdit](https://stackedit.io/).
